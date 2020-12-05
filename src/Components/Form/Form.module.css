@@ -1,0 +1,28 @@
+.form{
+    padding:25px;
+    box-shadow: 10px 10px 15px black;
+    margin: 25px;
+    background-color: honeydew;
+}
+.form label{
+    display: block;
+}
+.form input{
+    display: block;
+    width: 98%;
+    margin: 10px 0px;
+    padding: 5px;
+}
+.form h1{
+    color: darkslategray;
+}
+.form a{
+    padding: 10px 25px;
+    background: rgb(68, 68, 70);
+    margin:10px 0px;
+    display: block;
+    width: 150px;
+    color: whitesmoke;
+    cursor: pointer;
+    text-align: center;
+}

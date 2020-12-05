@@ -1,0 +1,19 @@
+.nav{
+    padding: 6px;
+    background-color:rgb(58, 43, 23);
+}
+.brand{
+    display: inline-block;
+    color:khaki;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: rgb(131, 118, 46);
+    color: whitesmoke;
+    border: none;
+    cursor: pointer;
+    margin-left: 25px;
+}
+.options{
+    display: inline-block;
+}

@@ -1,0 +1,18 @@
+.search{
+    padding: 25px;
+    margin:20px 50px 50px 50px;
+    box-shadow:10px 10px 25px black;
+}
+.search input{
+    padding:4px;
+    display: block;
+    width: 98%;
+}
+.search button{
+    padding:10px 25px;
+    background-color: darkslategrey;
+    color: white;
+    cursor: pointer;
+    margin:10px 0px;
+    border:none;
+}
