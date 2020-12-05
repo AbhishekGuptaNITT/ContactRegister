@@ -73,6 +73,7 @@ class App extends Component{
         {search}
         {form}
         {displayContact}
+        <h1>HEY THIS IS TEST BRANCH</h1>
       </div>
     )
   }
